@@ -1,0 +1,4 @@
+[submodule "kali-nethunter-kernel"]
+	path = kali-nethunter-kernel
+	url = https://github.com/SherlockChiang/kali-nethunter-kernel
+	branch = lilac
